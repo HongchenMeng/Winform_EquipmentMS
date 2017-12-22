@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="chkBak.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="&gt;&gt;chkBak.Name" xml:space="preserve">
+    <value>chkBak</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="imageList1.ImageStream" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj0yLjAuMC4w
+        LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAACZTeXN0
+        ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkDAAAADwMAAAD6
+        DAAAAk1TRnQBSQFMAwEBAAEEAQABBAEAASABAAEgAQAE/wEhAQAI/wFCAU0BNgcAATYDAAEoAwABgAMA
+        ASADAAEBAQABIAYAAUAWAAMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/
+        AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/
+        AwQB/wMEAf8DBAH/AwQB//8AhQADBAP/AQQC/wIEAv8CBAH/A8AB/wPAAf8DwAH/A8AB/wPAAf8DwAH/
+        A8AB/wPAAf8DwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf8DwAH/A8AB/wPAAf8DwAH/
+        A8AB/wPAAf8DwAL/AgQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQB/wMEAf8DBGH/AwQB/wMEAv8CBAH/
+        AwQB//8AgQADBAP/AQQB/wMEAf8DBCb/AgQC/wIEAf8IAAGBAgQB/wGBAgQl/wMEAf8DBAL/AgQB/wME
+        Af//AIEAAwQD/wEEAv8CBAL/AgQi/wIEAv8CBAL/AgQC/wIEAf8BgQIEAf8BgQIEAf8BgQIEAf8BgQIE
+        I/8BBAL/AgQC/wIEAf8DBAH//wCBAAMEA/8BBAL/AgQC/wIEHf8DgQH/AYEBBAGBAf8BgQEEAYEB/wGB
+        AQQBgQH/AYEBBAGBAf8CBAGBAf8CBAGBAf8CBAGBAf8CBAGBAf8CBAGBH/8BBAL/AgQC/wIEAf8DBAH/
+        /wCBAAMEA/8BBAL/AgQC/wIEHf8BgQEEAYEB/wGBAQQBgQH/AYEBBAGBAf8BgQEEAYEB/wGBAQQBgQH/
+        AgQBgQH/AgQBgQH/AgQBgQH/AgQBgQH/AgQBgR//AQQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIE
+        Av8CBBn/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQBgQH/AgQBgQH/AgQBgQH/AgQBgQH/AgQBgR//
+        AQQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIEAv8CBBn/AgQC/wQAAgQC/wIEAv8CBAL/AgQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBCD/AQQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIEAv8CBBn/AgQC/wQA
+        AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQo/wEEAv8CBAL/AgQB/wMEAf//AIEAAwQD/wEEAv8CBAL/
+        AgQZ/wPAAf8EAAEEA/8BBAP/AQQD/wEEA/8BBAP/AQQD/wEEKf8BBAL/AgQC/wIEAf8DBAH//wCBAAME
+        A/8BBAL/AgQC/wIEGf8DwAH/BAABBAP/AQQD/wEEA/8BBAP/AQQD/wEEA/8BBCn/AQQC/wIEAv8CBAH/
+        AwQB//8AgQADBAP/AQQC/wIEAv8CBB//AQQB/wQAAQQBgQEEAf8BBAGBAQQB/wEEAYEBBAH/AQQBgQEE
+        Af8BBAGBAQQB/wEEAYEBBAH/AQQBgQEEAf8BBAGBAQQf/wEEAv8CBAL/AgQB/wMEAf//AIEAAwQD/wEE
+        Av8CBAL/AgQh/wEEAYEBBAH/AQQBgQEEA/8BBAv/AQQB/wEEAYEBBAH/AQQBgQEEI/8BBAL/AgQC/wIE
+        Af8DBAH//wCBAAMEA/8BBAL/AgQC/wIEMf8BBAGBAQQv/wEEAv8CBAL/AgQB/wMEAf//AIEAAwQD/wEE
+        Av8CBAL/AgQx/wEEAYEBBAH/AQQBgQEEK/8BBAL/AgQC/wIEAf8DBAH//wCBAAMEA/8BBAL/AgQC/wIE
+        Nf8BBAGBAQQB/wEEAYEBBCf/AQQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIEAv8CBAL/AgRa/wIE
+        A/8BBAL/AgQC/wIEAf8DBAH//wCBAAMEA/8BBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH//wCBAAMEA/8BBAL/AgQC/wIEAv8CBAP/AQQD/wEE
+        A/8BBAP/AQQD/wEEA/8BBAP/AQQD/wEEA/8BBAP/AQQD/wEEA/8BBAP/AQQD/wEEA/8BBAP/AQQD/wEE
+        A/8BBAP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH//wCBAAMEA/8BBAL/AgQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DwAH/A8AJ/wPAAf8DwAH/A4EB/wOBAf8DgQH/A4EB/wME
+        Af8DBAH/AwQB/wMEA/8BBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DgQH/A4EB/wPAAf8DwAn/A8AB/wPAAf8DgQL/AgQC/wIE
+        Av8CBAL/AgQB/wMEAf8DBAH/AwQD/wEEAv8CBAL/AgQC/wIEAv8CBAL/AgQB/wMEAf//AIEAAwQD/wEE
+        Av8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAH/A4EB/wOBAf8DgQH/A8AB/wPACf8DwAH/A8AC/wIE
+        Av8CBAL/AgQC/wIEAf8DBAH/AwQB/wMEA/8BBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH//wCBAAME
+        A/8BBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQB/wOBAf8DgQH/A4EB/wOBAf8DwAH/A8AJ/wPA
+        Av8CBAL/AgQC/wIEAv8CBAH/A4EB/wMEAf8DBAP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAH/AwQB//8A
+        gQADBAP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH/A4EB/wOBAf8DgQH/A4EB/wPA
+        Af8DwAr/AgQC/wIEAv8CBAL/AgQB/wOBAf8DgQH/AwQD/wEEAv8CBAL/AgQC/wIEAv8CBAL/AgQB/wME
+        Af//AIEAAwQD/wEEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAv8CBAH/AwQB/wMEAf8DgQH/A4EB/wOB
+        Af8DgQH/A8AB/wPABv8CBAL/AgQC/wIEAv8CBAH/A4EB/wOBAf8DgQP/AQQC/wIEAv8CBAL/AgQC/wIE
+        Av8CBAH/AwQB//8AgQADBAP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH/AwQB/wME
+        Af8DgQH/A4EB/wOBAf8DgQH/A8AB/wPAAv8CBAL/AgQC/wIEAv8CBAH/A4EB/wOBAf8DgQP/AQQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAL/AgQC/wIE
+        Af8DBAH/AwQB/wMEAf8DBAH/A4EB/wOBAf8DgQH/A4EB/wPAAv8CBAL/AgQC/wIEAv8CBAH/A8AB/wOB
+        Af8DgQP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIEAv8CBAL/AgQC/wIE
+        Av8CBAL/AgQC/wIEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wOBAf8DgQH/A4EB/wOBAv8CBAL/AgQC/wIE
+        Av8CBAH/A8AB/wPAAf8DgQP/AQQC/wIEAv8CBAL/AgQC/wIEAv8CBAH/AwQB//8AgQADBAP/AQQC/wIE
+        Av8CBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DgQH/A4EB/wOB
+        Av8CBAL/AgQC/wIEAv8CBAX/A8AB/wPAA/8BBAL/AgQC/wIEAv8CBAL/AgQC/wIEAf8DBAH//wCBAAME
+        A/8BBAP/AQQD/wEEAv8CBAP/AQQD/wEEA/8BBAP/AQQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wME
+        Af8DgQH/A4EB/wOBAf8DgQH/A8AB/wPACf8DwAP/AQQD/wEEA/8BBAP/AQQD/wEEAf8DBAH//wCJAAME
+        Af8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wME
+        Af8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH/AwQB/wMEAf8DBAH//wCJAAFC
+        AU0BPgcAAT4DAAEoAwABgAMAASADAAEBAQABAQYAAQIWAAP/AQABgAIAAQEtAAEBAYBOAAEQDwABEA8A
+        ARAPAAEQDwABCP8AIgABAQwAAYACAAEDDAAL
+</value>
+  </data>
+  <data name="btnRes.Text" xml:space="preserve">
+    <value>数据恢复</value>
+  </data>
+  <data name="chkBak.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnRes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>383, 209</value>
+  </data>
+  <data name="btnExit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>464, 209</value>
+  </data>
+  <data name="btnExit.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnBak.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;chkBak.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="listView1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>551, 204</value>
+  </data>
+  <data name="&gt;&gt;listView1.Name" xml:space="preserve">
+    <value>listView1</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="listView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="&gt;&gt;btnRes.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>系统数据备份与恢复</value>
+  </data>
+  <data name="&gt;&gt;btnExit.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btnBak.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="listView1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btnRes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="btnExit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;imageList1.Name" xml:space="preserve">
+    <value>imageList1</value>
+  </data>
+  <data name="btnBak.Location" type="System.Drawing.Point, System.Drawing">
+    <value>302, 209</value>
+  </data>
+  <data name="&gt;&gt;btnBak.Name" xml:space="preserve">
+    <value>btnBak</value>
+  </data>
+  <data name="&gt;&gt;btnBak.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnExit.Text" xml:space="preserve">
+    <value>关　闭</value>
+  </data>
+  <data name="&gt;&gt;listView1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnBak.Text" xml:space="preserve">
+    <value>数据备份</value>
+  </data>
+  <data name="&gt;&gt;btnExit.Name" xml:space="preserve">
+    <value>btnExit</value>
+  </data>
+  <data name="&gt;&gt;imageList1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ImageList, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>551, 238</value>
+  </data>
+  <data name="chkBak.Text" xml:space="preserve">
+    <value>数据备份过程中，清理以前所有的备份。</value>
+  </data>
+  <data name="&gt;&gt;listView1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btnRes.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnBak.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
+  </data>
+  <data name="&gt;&gt;btnBak.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRes.Name" xml:space="preserve">
+    <value>btnRes</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="listView1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="chkBak.Location" type="System.Drawing.Point, System.Drawing">
+    <value>12, 213</value>
+  </data>
+  <data name="&gt;&gt;btnRes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="chkBak.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 16</value>
+  </data>
+  <data name="btnRes.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>6, 12</value>
+  </data>
+  <data name="&gt;&gt;chkBak.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListView, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmBakDataBase</value>
+  </data>
+  <data name="&gt;&gt;chkBak.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>Chinese (Traditional)</value>
+  </metadata>
+  <metadata name="imageList1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>

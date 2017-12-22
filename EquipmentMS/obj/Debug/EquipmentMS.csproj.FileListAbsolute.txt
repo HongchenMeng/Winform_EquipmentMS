@@ -1,0 +1,287 @@
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe.config
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\Interop.VBIDE.dll
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csproj.ResolveComReference.cache
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\ResolveAssemblyReference.cache
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmMain.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Properties.Resources.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmMain.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.zh-CHT.resources
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csproj.GenerateResource.Cache
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.exe.manifest
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.exe
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.pdb
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\VitScan.sdf
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\DataBase\db_EquipmentMS_Data.MDF
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\DataBase\db_EquipmentMS_Data_log.ldf
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\DataBase\db_EquipmentMS_Log.LDF
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe.manifest
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.application
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.pdb
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\AxInterop.BARCODELib.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\VitApp.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\Interop.BARCODELib.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\office.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\codes\EquipmentMS\EquipmentMS\bin\Debug\Interop.VBIDE.dll
+E:\codes\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.application
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe.config
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csproj.ResolveComReference.cache
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.exe
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.pdb
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\ResolveAssemblyReference.cache
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmMain.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Properties.Resources.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmMain.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.zh-CHT.resources
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csproj.GenerateResource.Cache
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\VitScan.sdf
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe.manifest
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.application
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.pdb
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\AxInterop.BARCODELib.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\Interop.VBIDE.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\VitApp.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\Interop.BARCODELib.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.exe.manifest
+E:\nets\gz\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.application
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\office.dll
+E:\nets\gz\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Office.Interop.SmartTag.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe.config
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csproj.ResolveComReference.cache
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.exe
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.pdb
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\VitScan.sdf
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe.manifest
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.application
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.exe
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\EquipmentMS.pdb
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\AxInterop.BARCODELib.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\Interop.VBIDE.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\office.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\VitApp.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\bin\Debug\Interop.BARCODELib.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csprojResolveAssemblyReference.cache
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmMain.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Properties.Resources.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.frmMain.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.zh-CHT.resources
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.csproj.GenerateResource.Cache
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.exe.manifest
+E:\MySoft\9ymw .NET源码\EquipmentMS(固定资产)\EquipmentMS\EquipmentMS\obj\Debug\EquipmentMS.application
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.exe.config
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.csproj.ResolveComReference.cache
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.exe
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.pdb
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\VitScan.sdf
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.exe.manifest
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.application
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.exe
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.pdb
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\zh-CHT\EquipmentMS.resources.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\AxInterop.BARCODELib.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Interop.VBIDE.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\office.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\VitApp.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Interop.BARCODELib.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.csprojResolveAssemblyReference.cache
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmMain.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Properties.Resources.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmMain.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.zh-CHT.resources
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.csproj.GenerateResource.Cache
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\zh-CHT\EquipmentMS.resources.dll
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.exe.manifest
+D:\42193221\FileRecv\DX0157-带条码打印的固定资产管理系统源码\DX0157-带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.application
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\VitScan.sdf
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\bakDataBase\db_EquipmentMS.MDF
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\bakDataBase\db_EquipmentMS.ldf
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.exe.config
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.exe.manifest
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.application
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.exe
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\EquipmentMS.pdb
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\AxInterop.BARCODELib.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Interop.VBIDE.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\office.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\VitApp.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\bin\Debug\Interop.BARCODELib.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.csproj.ResolveComReference.cache
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmMain.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Properties.Resources.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseInfo.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseNumber.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmBaseSort.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.BaseInfo.frmDataGridViewSetVisible.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmBakDataBase.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.DataManage.frmNewSystem.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquimentSum.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClear.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentClearFind.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentInsert.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.Equipment.frmEquipmentUpdate.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmLogin.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.frmMain.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.PrintCodeForm.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUnits.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.SystemSet.frmUser.zh-CHT.resources
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.csproj.GenerateResource.Cache
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\zh-CHT\EquipmentMS.resources.dll
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.exe.manifest
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.application
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.exe
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.pdb
+E:\SVNCode\WinformCode\trunk\带条码打印的固定资产管理系统源码\EquipmentMS\obj\Debug\EquipmentMS.csprojResolveAssemblyReference.cache

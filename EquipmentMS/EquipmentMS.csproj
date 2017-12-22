@@ -1,0 +1,434 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5506B004-B144-47F7-BB05-D1DB753A7F35}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EquipmentMS</RootNamespace>
+    <AssemblyName>EquipmentMS</AssemblyName>
+    <ApplicationIcon>Vitcode.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>6C00507B8F5C91C009F6CC0C7DA4789A83FF49B6</ManifestCertificateThumbprint>
+    <ManifestKeyFile>EquipmentMS_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <PublishUrl>C:\Documents and Settings\xb\桌面\VitEMS\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <UpdateUrl>http://localhost/EquipmentMS/</UpdateUrl>
+    <ApplicationRevision>10</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.BARCODELib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\AxInterop.BARCODELib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core, Version=2.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\Interop.Microsoft.Office.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.VBIDE, Version=5.3.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\Interop.VBIDE.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Vbe.Interop, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\Microsoft.Vbe.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="office, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dlls\office.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VitApp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>obj\VitApp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaseClass\DataBase.cs" />
+    <Compile Include="BaseClass\Operation.cs" />
+    <Compile Include="BaseInfo\frmBaseInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmBaseInfo.Designer.cs">
+      <DependentUpon>frmBaseInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmBaseNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmBaseNumber.Designer.cs">
+      <DependentUpon>frmBaseNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmBaseSort.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmBaseSort.Designer.cs">
+      <DependentUpon>frmBaseSort.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseInfo\frmDataGridViewSetVisible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseInfo\frmDataGridViewSetVisible.Designer.cs">
+      <DependentUpon>frmDataGridViewSetVisible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataManage\frmBakDataBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataManage\frmBakDataBase.Designer.cs">
+      <DependentUpon>frmBakDataBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataManage\frmNewSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataManage\frmNewSystem.Designer.cs">
+      <DependentUpon>frmNewSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment\frmEquimentSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment\frmEquimentSum.Designer.cs">
+      <DependentUpon>frmEquimentSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentClear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentClear.Designer.cs">
+      <DependentUpon>frmEquipmentClear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentClearFind.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentClearFind.Designer.cs">
+      <DependentUpon>frmEquipmentClearFind.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentInsert.Designer.cs">
+      <DependentUpon>frmEquipmentInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipment\frmEquipmentUpdate.Designer.cs">
+      <DependentUpon>frmEquipmentUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintCodeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintCodeForm.Designer.cs">
+      <DependentUpon>PrintCodeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BaseInfo\frmBaseInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBaseInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmBaseInfo.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBaseInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmBaseNumber.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBaseNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmBaseNumber.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBaseNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmBaseSort.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBaseSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmBaseSort.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBaseSort.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmDataGridViewSetVisible.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDataGridViewSetVisible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseInfo\frmDataGridViewSetVisible.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDataGridViewSetVisible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataManage\frmBakDataBase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBakDataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataManage\frmBakDataBase.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBakDataBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataManage\frmNewSystem.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNewSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataManage\frmNewSystem.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmNewSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquimentSum.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquimentSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquimentSum.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquimentSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentClear.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentClear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentClear.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentClear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentClearFind.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentClearFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentClearFind.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentClearFind.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentInsert.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentInsert.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentUpdate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipment\frmEquipmentUpdate.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmEquipmentUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.zh-CHT.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCodeForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrintCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintCodeForm.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PrintCodeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSet\frmUnits.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSet\frmUnits.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSet\frmUser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemSet\frmUser.zh-CHT.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="EquipmentMS_TemporaryKey.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Content Include="bakDataBase\db_EquipmentMS.MDF">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bakDataBase\db_EquipmentMS.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="VitScan.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="SystemSet\frmUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSet\frmUnits.Designer.cs">
+      <DependentUpon>frmUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SystemSet\frmUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemSet\frmUser.Designer.cs">
+      <DependentUpon>frmUser.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ICON\172.ico" />
+    <Content Include="ICON\42.ico" />
+    <Content Include="ICON\exit.ico" />
+    <Content Include="Vitcode.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.1.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2005 Express Edition</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="bakDataBase\db_EquipmentMS_Data_log.ldf">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="IMAGES\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
